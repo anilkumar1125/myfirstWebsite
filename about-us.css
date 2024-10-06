@@ -1,0 +1,61 @@
+a{
+    color: white;
+    font-family: "Roboto";
+    text-decoration:none;
+   }   
+   .nav-bar-container{
+      font-size: 12px;
+      
+   }
+   .main-box{
+       display: flex;
+       background-color:rgb(238, 233, 229);
+   }
+   .child1{
+       
+       width: 45%;
+       height: 85vh;
+       
+   }
+   .child2{
+   
+       width: 55%;
+       height: 85vh;
+   }
+   .nav-bar-container a:hover{ 
+    color: tomato;
+   }
+   .contend{
+       text-align:left;
+       font-size: 10px;
+       font-size:medium;
+       font-family: "roboto";
+   } 
+   
+   .icons img{
+       width: 30px;
+       margin-right: 10px;
+       
+   }
+   .icons{
+       
+       width: 30%;
+   }
+   .more-btn{
+       background-color: black;
+
+       margin-top: 5px;
+       width: 40%;
+       width: 100px;
+       height: 40px;
+       border: none;
+       color: white;
+       border-radius: 10px;
+      cursor: pointer;
+   }
+   .hedding h1{
+       font-weight: 900;
+       font-family: "roboto";
+       width: 24vh;
+       font-size: 25px;
+   }
